@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=626&ext=jpg" /> </p>
 
-- 🔭 I’m currently working on [solution](https://github.com/masum-developer/solution)
+- 🔭 I’m currently working on group project [solution](https://github.com/masum-developer/solution)
 
 - 🌱 I’m currently learning **Next.js**
 
