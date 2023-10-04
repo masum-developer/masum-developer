@@ -1,4 +1,4 @@
-![MasterHead](https://tse1.mm.bing.net/th?id=OIP.2pj1jjXElmo8xbrc6FavtAHaDF&pid=Api&P=0&h=220&w=1400)
+![MasterHead](https://tse1.mm.bing.net/th?id=OIP.2pj1jjXElmo8xbrc6FavtAHaDF&pid=Api&P=0&h=320&w=100)
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
