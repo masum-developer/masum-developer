@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Masum Billah</h1>
 <h3 align="left">A passionate MERN developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=626&ext=jpg" /> </p>
+<p align="center"> <img src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?size=626&ext=jpg" /> </p>
 
 - 🔭 I’m currently working on group project [solution](https://github.com/masum-developer/solution)
 
